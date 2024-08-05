@@ -9,6 +9,10 @@ We expect many of you to have some experience with Python and NumPy; for those w
 
 In this tutorial, we will cover:
 
+- Python Environment Setup:
+  - Anaconda Installation and Jupyter Notebook
+  - Create Python Virtual Environment
+
 - Basic Python:
   - Basic data types (Containers, Lists, Dictionaries, Sets, Tuples)
   - Functions
