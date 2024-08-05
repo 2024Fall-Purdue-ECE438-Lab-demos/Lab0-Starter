@@ -10,8 +10,11 @@ We expect many of you to have some experience with Python and NumPy; for those w
 In this tutorial, we will cover:
 
 Basic Python: Basic data types (Containers, Lists, Dictionaries, Sets, Tuples), Functions, Classes
+
 Numpy: Arrays, Array indexing, Datatypes, Array math, Broadcasting
+
 Matplotlib: Plotting, Subplots, Images
+
 
 ## Submission
 git add lab0_report.ipynb
