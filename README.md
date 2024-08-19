@@ -31,9 +31,6 @@ In this tutorial, we will cover:
   - Images
 
 ## Submission
-```sh
-git add lab0_report.ipynb
-git commit -m "update lab report"
-git push
+Submit your report to Gradescope
 
 
