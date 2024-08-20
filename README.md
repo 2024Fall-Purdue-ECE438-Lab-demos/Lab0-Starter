@@ -31,13 +31,20 @@ In this tutorial, we will cover:
   - Images
 
 ## Submission
-1. Submit your report to Gradescope
-2. In your terminal, change current directory to lab0
+### Code Submission
+
+In your terminal, change current directory to lab0.
 
 ```bash
 git add -A 
 git commit -m "update lab report"
 git push
 ```
+
+### Report Submission
+
+1. Use this [Colab script](https://colab.research.google.com/drive/1nhBEHiRXHo6kpzQ6P0lLXThznxCYfvAI#scrollTo=Dfqg8VMOCXWp) to convert your report.ipynb to an HTML file
+
+3. Submit it to [Gradescope](https://www.gradescope.com/).
 
 
