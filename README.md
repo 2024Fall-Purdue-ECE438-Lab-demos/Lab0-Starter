@@ -31,6 +31,13 @@ In this tutorial, we will cover:
   - Images
 
 ## Submission
-Submit your report to Gradescope
+1. Submit your report to Gradescope
+2. In your terminal, change current directory to lab0
+
+```bash
+git add -A 
+git commit -m "update lab report"
+git push
+```
 
 
